@@ -67,7 +67,7 @@ services:
     
     # Port mappings
     ports:
-      - "6001:6002"  # WebSocket/HTTP API port
+      - "6002:6001"  # WebSocket/HTTP API port
       - "9601:9601"  # Metrics port
     
     # Volume mounts
